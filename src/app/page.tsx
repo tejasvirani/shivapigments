@@ -136,7 +136,7 @@ const aboutSlides = [
   {
     title: "Consistent Product Quality",
     subtitle: "Developed for inks, coatings, plastics, and industrial applications.",
-    image: "https://unsplash.com/photos/V6T99SnUCyA/download?force=true&w=1400",
+    image: "/WhatsApp%20Image%202026-11-24%20at%2010.42.41%20AM.jpeg",
     position: "object-right",
   },
   {
