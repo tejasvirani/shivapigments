@@ -142,7 +142,7 @@ const aboutSlides = [
   {
     title: "People Behind the Process",
     subtitle: "Built on skilled teams, dependable service, and long-term customer trust.",
-    image: "/WhatsApp%20Image%202026-11-24%20at%201.32.52%20PM.jpeg",
+    image: "/WhatsApp%20Image%202026-11-24%20at%201.47.08%20PM.jpeg",
     position: "object-center",
   },
 ]
